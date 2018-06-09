@@ -3,6 +3,6 @@ aaaaaaaaaaaaa
 bbbbbbbbbbbbbb
 ccccccccccccccc
 ddd
-second config test
+ config test
 eeee
 merge test
